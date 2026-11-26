@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Vinh Nguyen</h1>
-<h3 align="center">Junior Fullstack Software Engineer</h3>
+<h3 align="center">Middle Fullstack Software Engineer</h3>
 <!-- <img align="right" alt="coding" width="400" src="https://i.pinimg.com/474x/84/aa/32/84aa3231c53ba911ed625eccc3376213.jpg">  -->
 
 
